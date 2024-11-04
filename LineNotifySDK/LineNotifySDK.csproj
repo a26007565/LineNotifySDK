@@ -20,6 +20,6 @@
     <PackageReference Include="FluentValidation" Version="10.3.4" />
     <PackageReference Include="Microsoft.AspNetCore.WebUtilities" Version="2.2.0" />
     <PackageReference Include="Microsoft.Extensions.Http" Version="6.0.0" />
-    <PackageReference Include="refit" Version="6.1.15" />
+    <PackageReference Include="refit" Version="8.0.0" />
   </ItemGroup>
 </Project>
